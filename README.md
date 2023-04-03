@@ -7,4 +7,4 @@
 ![Screenshot (242)](https://user-images.githubusercontent.com/100753763/229595345-349811df-4802-44a5-a3b5-e6533fff48e1.png)
 
 
-#In this app, we can set themes, font size of text, and colors according to our choice.
+# In this app, we can set themes, font size of text, and colors according to our choice.
