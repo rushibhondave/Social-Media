@@ -11,7 +11,7 @@
 
 ![Screenshot (248)](https://user-images.githubusercontent.com/100753763/229599870-d4555241-666c-4c72-9af6-6cc19ec9e2f4.png)
 
-#  we can set the themes and colors of button according to our choice.
+# If you click the message button or any other button, you will see the foucs mode in various colours.
 ![Screenshot (244)](https://user-images.githubusercontent.com/100753763/229595884-f0df3feb-c682-4d13-b0b9-fde310ccd6fe.png)
 
 #  Attractive Buttons.
